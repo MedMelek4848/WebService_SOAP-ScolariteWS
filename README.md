@@ -25,6 +25,24 @@ A set in Java is an unordered collection of unique elements or objects. In other
 # Example Code List Java
 * Clone this repository:
 ```
-    $ git clone https://github.com/MedMelek4848/WebService_SOAP-ScolariteWS/blob/master/Test.java
+   package Test;
+import java.util.ArrayList;
+import java.util.List;
+
+class Test{
+	public static void main(String[] args) {
+		List fail = new ArrayList();
+		fail.add("Un");
+		fail.add("Deux");
+		fail.add("Trois");
+		fail.add("Quarte");
+		for (int i=0 ;i<fail.size();i++) {
+			String elem=(String)fail.get(i);
+			if (elem.startsWith("D")) {
+				fail.remove(elem);
+			}
+		}
+	}
+}
 ```
 
