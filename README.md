@@ -16,3 +16,8 @@ Dans Java, Map est une interface qui représente un objet contenant des mappages
 collections qui stockent des éléments dans un certain ordre avant qu'ils ne soient extraits pour traitement
 
 ![image info](https://github.com/MedMelek4848/WebService_SOAP-ScolariteWS/blob/master/Deque-vs-Queue.jpg)
+
+# 4-Set
+A set in Java is an unordered collection of unique elements or objects. In other words, a set is a collection of elements that are not stored in a particular order.
+
+![image info](https://github.com/MedMelek4848/WebService_SOAP-ScolariteWS/blob/master/realtime-example-of-java-set.jpg)
