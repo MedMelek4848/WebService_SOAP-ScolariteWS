@@ -23,7 +23,6 @@ A set in Java is an unordered collection of unique elements or objects. In other
 ![image info](https://github.com/MedMelek4848/WebService_SOAP-ScolariteWS/blob/master/realtime-example-of-java-set.jpg)
 
 # Example Code List Java
-* Clone this repository:
 ```
    package Test;
 import java.util.ArrayList;
