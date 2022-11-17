@@ -21,3 +21,7 @@ collections qui stockent des éléments dans un certain ordre avant qu'ils ne so
 A set in Java is an unordered collection of unique elements or objects. In other words, a set is a collection of elements that are not stored in a particular order.
 
 ![image info](https://github.com/MedMelek4848/WebService_SOAP-ScolariteWS/blob/master/realtime-example-of-java-set.jpg)
+
+# Example Code List Java
+
+$ git clone https://github.com/MedMelek4848/WebService_SOAP-ScolariteWS/blob/master/Test.java
