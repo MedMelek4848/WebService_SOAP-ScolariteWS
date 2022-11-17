@@ -44,4 +44,7 @@ class Test{
 	}
 }
 ```
+# Exercice d'application Diagrame de classe
+
+![image info](https://github.com/MedMelek4848/WebService_SOAP-ScolariteWS/blob/master/classe.png)
 
