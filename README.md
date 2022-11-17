@@ -9,6 +9,7 @@ Une liste en Java est une séquence d'éléments selon un ordre. L'interface Lis
 
 # 2- Map :
 Dans Java, Map est une interface qui représente un objet contenant des mappages entre des clés (key) et des valeurs (value). Chaque clé correspond à une valeur.
+
 ![image info](https://github.com/MedMelek4848/WebService_SOAP-ScolariteWS/blob/master/Map%20.jpg)
 
 # 3-Queue et Deque :
